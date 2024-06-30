@@ -7,9 +7,6 @@ function App() {
     <>
     <Header/>
     <Form/>
-    <footer className='footer'>
-      | Developed by Allustrode |
-    </footer>
     </>
   );
 }
