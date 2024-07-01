@@ -153,13 +153,13 @@ b{
 .form button.clearText{
   background: rgb(216, 53, 12);
 }
-.form button.copyText:hover{
+/* .form button.copyText:hover{ */
   /* background: linear-gradient(to right,rgb(25, 88, 131), rgb(62, 125, 184)); */
-}
-.form button.clearText:hover{
+/* } */
+/* .form button.clearText:hover{ */
   /* opacity: .8; */
   /* background: linear-gradient(to right,rgb(160, 31, 31), rgb(224, 90, 90)); */
-}
+/* } */
 
 .footer{
   color: rgb(121, 121, 121);
